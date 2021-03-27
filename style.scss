@@ -21,7 +21,7 @@ body {
   background-image: url("https://linerly.github.io/assets/background.png");
   background-repeat: repeat;
   background-attachment: fixed;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 'Quicksand', $sansSerif;
   color: $darkGray;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $'Quicksand' $sansSerif;
+  font-family: 'Quicksand', $sansSerif;
   color: $darkerGray;
   font-weight: bold;
 
