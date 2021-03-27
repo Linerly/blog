@@ -6,7 +6,7 @@
 name: Linerly
 
 # Short bio or description (displayed in the header)
-description: Blah blah blah, just a test.
+description: Welcome to my blog!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -47,7 +47,7 @@ url: linerly.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/jekyll-now"
+baseurl: "https://linerly.github.io/blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
