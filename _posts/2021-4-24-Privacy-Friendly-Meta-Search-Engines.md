@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy-Friendly (Meta)search Engines
+title: Privacy-friendly (meta)search engines
 ---
 
 I've been recently gotten into these privacy-friendly metasearch engines like searx, and Whoogle as well which is new. By the way, I hosted them on replit as well. If you want to try them, feel free to do so.
