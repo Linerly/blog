@@ -279,6 +279,9 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.315);
+  -webkit-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.315);
+  -moz-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.315);
 }
 
 footer {
