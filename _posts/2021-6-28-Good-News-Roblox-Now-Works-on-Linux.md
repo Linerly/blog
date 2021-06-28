@@ -3,7 +3,7 @@ layout: post
 title: Good news; Roblox now works on Linux!
 ---
 
-As you may say in the title, yes, finally, thanks to Wine 6.11, Roblox now works on Linux! No need to use a virtual machine, although there are some bugs.
+Finally, thanks to Wine 6.11, Roblox now works on Linux! No need to use a virtual machine, although there are some bugs that can affect your gameplay.
 
 I might will eventually come back to Roblox again to make more Roblox games, who knows? Also, I was pretty excited that I can play Roblox again on my Arch Linux setup!
 
