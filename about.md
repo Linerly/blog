@@ -11,9 +11,8 @@ I am just a student from Indonesia, and I occasionally make things and share it 
 
 Also, I use Arch Linux, BTW.
 
-If you want to, feel free to [donate through PayPal to support me!](https://paypal.me/linerly)
-Even a dollar already helps, thanks! 🙂🙌
+If you want to, feel free to [donate through PayPal](https://paypal.me/linerly) or give me some Monero at this address: 43mp6J3yd8R1378BeYgYHVW23MHfnmNde3CzuNaY3mDmhr3mkMUrWYC4PHFAbVv4Ujf9Mqdy6dQbjGr83bssNq8xDncHZid
 
 Oh yeah, if you don't want to miss out new articles that I post here, [my blog has an RSS feed that you can subscribe to.](https://linerly.github.io/blog/feed)
 
-That's all for now...
+That's all for now :)
